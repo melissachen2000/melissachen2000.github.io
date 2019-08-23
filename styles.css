@@ -1,0 +1,115 @@
+body {margin:0;}
+
+h1 {
+  margin-top: 12vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  margin-bottom: 4vw;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 70;
+  font-size: 6vw;
+  color: rgb(54, 65, 70);
+  text-align: center;
+}
+
+h2 {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 60;
+  font-size: 2vw;
+  color: rgb(54, 65, 70);
+  text-align: center;
+}
+
+h3 {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 90;
+  font-size: 2vw;
+  color: rgb(54, 65, 70);
+  text-align: center;
+}
+
+h4 {
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 4vw;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 70;
+  font-size: 3vw;
+  color: rgb(54, 65, 70);
+  text-align: center;
+}
+
+body, html {
+  overflow: auto;
+  height:100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background: rgb(24,92,165);
+  background-repeat:no-repeat;
+  background: -webkit-linear-gradient( to left top, rgba(24,92,165,1) 0%, rgba(147,224,236,1) 98%);
+  background: -moz-linear-gradient( to left top, rgba(24,92,165,1) 0%, rgba(147,224,236,1) 98%);
+  background: -ms-linear-gradient( to left top, rgba(24,92,165,1) 0%, rgba(147,224,236,1) 98%);
+  background: -o-linear-gradient( to left top, rgba(24,92,165,1) 0%, rgba(147,224,236,1) 98%);
+  background: linear-gradient( to left top, rgba(24,92,165,1) 0%, rgba(147,224,236,1) 98%);
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+navigation-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(54, 65, 70);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+navigation-item {
+  float: left;
+  color: white;
+}
+
+navigation-item a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: white;
+}
+
+navigation-item a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: rgba(24,92,165,1);
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
