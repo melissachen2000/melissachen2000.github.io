@@ -43,7 +43,7 @@ body, html {
   background-size: cover;
   background-size: cover;
   background-color: cyan; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, deepskyblue , aqua);
+  background-image: linear-gradient(to bottom, deepskyblue , aqua);
 }
 
 .vertical-center {
