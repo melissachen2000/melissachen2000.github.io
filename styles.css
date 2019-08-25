@@ -1,45 +1,35 @@
 body {margin:0;}
 
 h1 {
-  margin-top: 9vw;
-  margin-left: 2vw;
-  margin-right: 2vw;
-  margin-bottom: 3vw;
+  margin-top: 10%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 3%;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 6vw;
+  font-size: 500%;
   color: rgb(54, 65, 70);
   text-align: center;
 }
 
 h2 {
-  margin-left: 5vw;
-  margin-right: 5vw;
-  margin-bottom: 2vw;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2%;
   font-family: 'Montserrat', sans-serif;
   font-weight: 60;
-  font-size: 1.5vw;
+  font-size: 175%;
   color: rgb(54, 65, 70);
   text-align: left;
 }
 
-h3 {
-  margin-left: 1vw;
-  margin-right: 1vw;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 90;
-  font-size: 2vw;
-  color: rgb(54, 65, 70);
-  text-align: center;
-}
-
 h4 {
-  margin-left: 1vw;
-  margin-right: 1vw;
-  margin-bottom: 1vw;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 3vw;
+  font-size: 400%;
   color: rgb(54, 65, 70);
   text-align: center;
 }
