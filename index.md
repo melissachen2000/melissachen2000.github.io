@@ -1,6 +1,6 @@
 # Hello, thanks for stopping by my website!
 
-My name is Melissa Chen (she/her/hers). I am a junior majoring in computer science and minoring in mathematics at the University of Illinois at Urbana-Champaign. I'm an aspiring researcher interested in artificial intelligence, bioinformatics, and computer architecture. I'm also passionate about diversity and inclusion, mental health awareness, and making CS education accessible to all. 
+My name is Melissa Chen (she/her/hers). I am a junior majoring in computer science and minoring in mathematics at the University of Illinois at Urbana-Champaign. I'm an aspiring researcher interested in artificial intelligence, bioinformatics, and computer architecture. My goal is to use my skills to help others in need. I'm also passionate about diversity and inclusion, mental health awareness, and making CS education accessible to all. 
 
 # Experiences
 
@@ -72,7 +72,7 @@ SErved as a project manager for four middle-school aged students working with Sp
 
 ## Content x Diversity Co-Chair 
 
-> Reflections | Projections, December 2019 - September 2020
+> Reflections &#124; Projections, December 2019 - September 2020
 
 Managed committee of 15 students to host 21 speakers for the largest student-run tech conference in the midwest
 
