@@ -1,0 +1,122 @@
+# Hello, thanks for stopping by my website!
+
+My name is Melissa Chen (she/her/hers). I am a junior majoring in computer science and minoring in mathematics at the University of Illinois at Urbana-Champaign. I'm an aspiring researcher interested in artificial intelligence, bioinformatics, and computer architecture. I'm also passionate about diversity and inclusion, mental health awareness, and making CS education accessible to all. 
+
+# Experiences
+
+During my undergraudate career, I've been lucky to have a variety of experiences in internships and through extracurriculars at school. 
+
+## Undergraudate Research Assistant
+
+> University of Illinois at Urbana-Champaign, October 2020 - Present
+
+Performed literature survey on plant heritability and presented readings in weekly meetings
+
+## Course Assitant
+
+> CS 233 Computer Architecture, January 2020 - Present
+
+Held weekly office hours to help students with labs in Verilog and MIPS
+
+Developed assignments to assess students' understanding of course content in virtual learning settings
+
+## Software Engineering Intern
+
+> Facebook (Privacy Infrasturcutre Organization), May 2020 - August 2020
+
+Developed a new framework to test feature extractors used to detect user-identifiable information
+
+Decreased experiment runtime by half and created an intuitive UI to expedite feature extractor development
+
+## Undergraduate Researcher
+
+> University of Illinois at Urbana-Champaign, September 2018 - September 2019
+
+Studied the theory of non-negative matrix factorization and applied knowledge on cancer genomics data
+
+Researched missingness mechanisms and imputation methods to compare relative speeds
+
+Performed literature survey on missing data and neural networks to create classifier to handle missing features
+
+## Summer Research Intern
+
+> Academia Sinica Institute of Information Sciences, June 2018 - August 2018
+
+Read and analyzed research papers on computer vision and machine learning
+
+## Events Chair
+
+> CS Mental Health Committee, August 2020 - Present
+
+Planned and promoted events with committee to increase mental health awareness
+
+Designed informational social media graphics to encourage mental health awareness and self-care, spread information about our events, initatives, and committee
+
+## Explorations (Techinical) Co-Chair
+
+> Illinois Women in Computer Science, May 2020 - Present
+
+Planned and presented tutorials with group-based activities on Git, terminal, hackathons, and interviews
+
+Directed virtual hackathon for female and non-binary students with 60 registrants, 7 project submissions
+
+Organized 5 project teams to work on social good and STEM education-related projects
+
+## Facilitator (Volunteer)
+
+> Girls Who Code @ UIUC, September 2019 - Present
+
+Designed and coordinated delivery of curriculum for introductory-level Scratch workshop and data science
+
+SErved as a project manager for four middle-school aged students working with Spheros for a semester project
+
+## Content x Diversity Co-Chair 
+
+> Reflections | Projections, December 2019 - September 2020
+
+Managed committee of 15 students to host 21 speakers for the largest student-run tech conference in the midwest
+
+## Co-Director
+
+> HackIllinois, April 2019 - March 2020
+
+Oversaw collaborative effects of 50 team members to build the premier collegiate open source hackathon, hosting 800 attendees, 35 mentors, 17 companies, and 200 volunteers for 36 hours at the University of Illinois at Urbana-Champaign
+
+## Other Experiences
+
+Co-chair, ACM@UIUC SIGMusic
+
+Course Assitant, CS 196 Freshman Honors
+
+Mentor, Women in Engineering Orientation
+
+Staff Member, Illinois Computer Science Sail
+
+# Projects
+
+## HackIllinois: A Journey
+
+This [blog post](https://blog.hackillinois.org/recap/2019/08/14/hackillinois-a-journey.html) discusses the trials and success of HackIllinois staffs from 2014 to 2019 and looks forward to the planning process for HackIllinois 2020
+
+## Non-negative matrix factorization on cancer gene expression data
+
+My freshman year research project uses non-negative matrix factorization to analyze cancer gene expressions. View my poster and code on [my github](https://github.com/melissachen2000/cancer-gene-expression-nmf/).
+
+## Safeways
+
+[Safeways](https://github.com/Safeways/safeways) is a webapp that plots the safest route between two points on campus, avoiding recent and frequent crime locations.
+
+# Contact Me
+
+Email: myc2@illinois.edu
+
+Github: [melissachen2000](https://github.com/melissachen2000)
+
+LinkedIn: [mychen2022](https://www.linkedin.com/in/mychen2022)
+
+Resume: [pdf](ChenMelissaResume.pdf)
+
+Handshake: Melissa Chen
+
+Last updated on December 30, 2020.
+
