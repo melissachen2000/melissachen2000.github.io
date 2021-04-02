@@ -1,10 +1,16 @@
 # Hello, thanks for stopping by my website!
 
-My name is Melissa Chen (she/her/hers). I am a junior majoring in computer science and minoring in mathematics at the University of Illinois at Urbana-Champaign. I'm an aspiring researcher interested in artificial intelligence, bioinformatics, and computer architecture. My goal is to use my skills to help others in need. I'm also passionate about diversity and inclusion, mental health awareness, and making CS education accessible to all. 
+My name is Melissa Chen (she/her/hers). I am a junior majoring in computer science and minoring in mathematics at the University of Illinois at Urbana-Champaign. I'm an aspiring researcher interested in artificial intelligence, bioinformatics, and computer science education. My goal is to use my skills to help others in need. I'm also passionate about diversity & inclusion, mental health awareness, and making CS education accessible to all. 
 
 # Experiences
 
 During my undergraudate career, I've been lucky to have a variety of experiences in internships and through extracurriculars at school. 
+
+## SPIN Research Intern
+
+> National Center for Supercomputing Applications, January 2021 - Present
+
+Working with satellite images to perform large-scale crop classification
 
 ## Undergraudate Research Assistant
 
@@ -68,7 +74,7 @@ Organized 5 project teams to work on social good and STEM education-related proj
 
 Designed and coordinated delivery of curriculum for introductory-level Scratch workshop and data science
 
-SErved as a project manager for four middle-school aged students working with Spheros for a semester project
+Served as a project manager for four middle-school aged students working with Spheros for a semester project
 
 ## Content x Diversity Co-Chair 
 
@@ -119,4 +125,3 @@ Resume: [pdf](ChenMelissaResume.pdf)
 Handshake: Melissa Chen
 
 Last updated on December 30, 2020.
-
