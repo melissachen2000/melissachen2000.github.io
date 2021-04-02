@@ -1,21 +1,3 @@
-# Experiences
-
-During my undergraudate career, I've been lucky to have a variety of experiences in internships and through extracurriculars at school. 
-
-## SPIN Research Intern
-
-> National Center for Supercomputing Applications, January 2021 - Present
-
-Working with satellite images to perform large-scale crop classification
-
-## Undergraudate Research Assistant
-
-> University of Illinois at Urbana-Champaign, October 2020 - Present
-
-Performed literature survey on plant heritability and presented readings in weekly meetings
-
-## Course Assitant
-
 > CS 233 Computer Architecture, January 2020 - Present
 
 Held weekly office hours to help students with labs in Verilog and MIPS
