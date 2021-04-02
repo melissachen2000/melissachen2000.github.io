@@ -46,24 +46,6 @@ Performed literature survey on missing data and neural networks to create classi
 
 Read and analyzed research papers on computer vision and machine learning
 
-## Events Chair
-
-> CS Mental Health Committee, August 2020 - Present
-
-Planned and promoted events with committee to increase mental health awareness
-
-Designed informational social media graphics to encourage mental health awareness and self-care, spread information about our events, initatives, and committee
-
-## Explorations (Techinical) Co-Chair
-
-> Illinois Women in Computer Science, May 2020 - Present
-
-Planned and presented tutorials with group-based activities on Git, terminal, hackathons, and interviews
-
-Directed virtual hackathon for female and non-binary students with 60 registrants, 7 project submissions
-
-Organized 5 project teams to work on social good and STEM education-related projects
-
 ## Facilitator (Volunteer)
 
 > Girls Who Code @ UIUC, September 2019 - Present
